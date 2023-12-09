@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex-Web", "Proyecto Pokedex Web\Pokedex-Web.csproj", "{203E934E-DC3B-4015-9AE2-BFAC8AB27C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{12363AAC-E6EA-43FA-ACED-14E8D5B49C1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{2DB7F838-3E5D-4CA1-B7B1-2430895903BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{203E934E-DC3B-4015-9AE2-BFAC8AB27C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203E934E-DC3B-4015-9AE2-BFAC8AB27C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203E934E-DC3B-4015-9AE2-BFAC8AB27C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203E934E-DC3B-4015-9AE2-BFAC8AB27C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12363AAC-E6EA-43FA-ACED-14E8D5B49C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12363AAC-E6EA-43FA-ACED-14E8D5B49C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12363AAC-E6EA-43FA-ACED-14E8D5B49C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12363AAC-E6EA-43FA-ACED-14E8D5B49C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB7F838-3E5D-4CA1-B7B1-2430895903BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB7F838-3E5D-4CA1-B7B1-2430895903BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB7F838-3E5D-4CA1-B7B1-2430895903BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB7F838-3E5D-4CA1-B7B1-2430895903BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419CDA8E-CB02-40C3-B04F-59318F549A74}
+	EndGlobalSection
+EndGlobal
