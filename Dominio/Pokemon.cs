@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -19,6 +20,8 @@ namespace Dominio
 
         public Elementos Tipo { get; set; }
         public Elementos Debilidad { get; set; }
+
+        public bool Activo { get; set; }
 
     }
 }
